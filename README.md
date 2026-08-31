@@ -1,4 +1,4 @@
-# Diabetes Clinical Dataset(100k rows)
+# Diabetes Clinical Dataset (100k rows)
 100,000 Diabetes Dataset for Predictive Modeling and Health Analytics
 
 About Dataset:
